@@ -27,25 +27,25 @@ OpenSRP Client Core App/Module basically provides basic functionality such as ne
 It provides:
 
 1. Domain objects for forms and database.
-2. Mappers between the different domains
-3. Basic and advanced networking capabilities to securely and efficiently connect to an OpenSRP backend
-4. Sync abilities that handle and maintain data consistency between the client and backend
-5. Data creation, edit, retrieval and deletion capabilities on the client device
-6. Security services that maintain global data and application security
-7. Utilities used for file storage, caching, image rendering, logging, session management and number conversions
-8. Access to tailored android views/widgets for OpenSRP
-9. Device-to-device sharing of application data - This includes events, clients and profile images
+2. Mappers between the different domains.
+3. Basic and advanced networking capabilities to securely and efficiently connect to an OpenSRP backend.
+4. Sync abilities that handle and maintain data consistency between the client and backend.
+5. Data creation, edit, retrieval and deletion capabilities on the client device.
+6. Security services that maintain global data and application security.
+7. Utilities used for file storage, caching, image rendering, logging, session management and number conversions.
+8. Access to tailored android views/widgets for OpenSRP.
+9. Device-to-device sharing of application data - This includes events, clients and profile images.
 
 # Why OpenSRP?
 
-1. It provides client access on Android phones which are easily available and acquirable
-2. It can work with minimal or no internet connection
-3. It provides enhanced security
-4. It primarily integrates with OpenMRS
-5. It is tailored to be used by health workers who regularly provide outreach services
-6. It generates custom reports eg. HIA 2
-7. It manages stock levels for stock provided to the health workers
-8. It implements the WHO-recommended **z-score** for child growth monitoring
+1. It provides client access on Android phones which are easily available and acquirable.
+2. It can work with minimal or no internet connection.
+3. It provides enhanced security.
+4. It primarily integrates with OpenMRS.
+5. It is tailored to be used by health workers who regularly provide outreach services.
+6. It generates custom reports eg. HIA 2.
+7. It manages stock levels for stock provided to the health workers.
+8. It implements the WHO-recommended **z-score** for child growth monitoring.
 9. It provides device-to-device sharing of medical records in areas without an internet connection.
 
 
